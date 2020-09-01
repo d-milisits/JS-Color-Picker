@@ -254,7 +254,7 @@ input[type="range"] {
   background: #1B1464;
   z-index: 200;
   animation: loadout;
-  animation-delay: 3s;
+  animation-delay: 2.15s;
   animation-duration: .65s;
   animation-fill-mode: both;
 }
